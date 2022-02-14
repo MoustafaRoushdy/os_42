@@ -1,1 +1,1 @@
-console.log("notification");
+var x = fun(){}
